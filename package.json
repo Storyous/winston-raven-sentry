@@ -1,5 +1,5 @@
 {
-  "name": "winston-raven-sentry",
+  "name": "@storyous/winston-raven-sentry",
   "description": "The maintained and well-documented Raven/Sentry transport for the winston logger with support for Koa/Express/Passport",
   "version": "2.1.0",
   "author": "Nick Baugh",
